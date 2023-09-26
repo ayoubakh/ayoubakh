@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://ayoubakhadam.netlify.app/blog](https://ayoubakhadam.netlify.app/blog)
 
-- 💬 Ask me about **Machine Learning, Data Analytics, Recommender Systems**
+- 💬 Ask me about **Data Science, Data Analytics, Recommender Systems**
 
 - 📫 How to reach me **ayoubakh.dev@gmail.com**
 
