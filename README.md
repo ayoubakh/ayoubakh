@@ -3,7 +3,7 @@
 <h3 align="center">A Junior Data Scientist</h3>
 <!--<p>Junior Data Scientist with an academic foundation in Data Science and hands-on experience in machine learning and data manipulation, holding a Master's degree in Data Science and Decision Support. I am well-equipped to leverage my skills in data analysis, programming, and visualization to drive impactful insights. My ability to navigate complex data landscapes, coupled with my passion for continuous learning and innovation, positions me to excel in contributing valuable data-driven solutions to your team.</p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubakh&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubakh" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubakh&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubakh" /> </p>
 
 
 <!--<<p align="left"> <a href="https://twitter.com/akhadam_ayoub" target="blank"><img src="https://img.shields.io/twitter/follow/akhadam_ayoub?logo=twitter&style=for-the-badge" alt="akhadam_ayoub" /></a> </p>
