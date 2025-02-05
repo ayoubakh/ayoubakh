@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayoubakhadam.netlify.app/](https://ayoubakhadam.netlify.app/)
 
-- 📝 I regularly write articles on [https://ayoubakhadam.netlify.app/blog](https://ayoubakhadam.netlify.app/blog)
+- 📝 I (will inshallah) regularly write articles on [https://ayoubakhadam.netlify.app/blog](https://ayoubakhadam.netlify.app/blog)
 
 - 💬 Ask me about **Data Science, Data Analytics, Recommender Systems**
 
