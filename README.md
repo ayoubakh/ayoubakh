@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Science, Data Analytics, Recommender Systems**
 
-- 📫 How to reach me **ayoubakh.dev@gmail.com**
+<!--- 📫 How to reach me **ayoubakh.dev@gmail.com** -->
 
 
 <h3 align="left">Connect with me:</h3>
